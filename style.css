@@ -8,14 +8,12 @@ body {
 
  #enfermagem {         
     color: blue;
-    text-align: left;
+    text-align: center;
 }          
 
-h1 {
-    text-align: center
-    
-    
-    
+#maos {    
+    width: 100%                  
+}    
     
     
     
